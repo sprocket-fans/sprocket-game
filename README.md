@@ -1,5 +1,5 @@
 # About Us
-This is a fan site tracking the progress of Sprockets, the tank design game.
+This is a fan site tracking the progress of Sprocket, the tank design game.
 
 **Hamish Dunn** has a lot of work cut out and we would like to help him track some of the ongoing discussions about the game. Send a github message to **sprockets-fans** if you would like to help maintain this site.
 
