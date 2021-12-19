@@ -16,6 +16,9 @@ Describe steps to reproduce the behavior.
 **Expected behavior**
 A description of what you expected to happen.
 
+**Actual behavior**
+A description of what actually happens.
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
